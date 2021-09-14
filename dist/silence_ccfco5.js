@@ -69,7 +69,7 @@
         sponsor: {
             enable: 1,
             text: "Buy me a cup of coffee ☕.",
-            paypal: null,
+            paypal: 'https://www.paypal.me/ccfco',
             wechat: 'https://images.cnblogs.com/cnblogs_com/ccfco/1768429/o_200519051034IMG_3661%202.JPG',
             alipay: 'https://images.cnblogs.com/cnblogs_com/ccfco/1768429/o_21082708553209B119B8-C62B-4AF5-B408-1780FAC4CA88.jpeg'
         }
