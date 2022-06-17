@@ -59,7 +59,7 @@
         navbars: [],
         showNavAdmin: !0,
         hljsln: !1,
-        catalog: {enable: !0, index: !0, active: 1, levels: ["h2", "h3", "h4"]},
+        catalog: {enable: !0, index: 0, active: 0, levels: ["h2", "h3", "h4"]},
         signature: {
             enable: !0,
             author: null,
